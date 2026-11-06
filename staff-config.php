@@ -1,6 +1,3 @@
-
-text/x-generic staff-config.php ( PHP script, ASCII text )
-
 <?php
 
 const CHAT_STAFF_ONLY_NEW_MESSAGES = false; // true = only admins/owners can send new messages temporarily
